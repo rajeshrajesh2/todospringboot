@@ -1,0 +1,42 @@
+.left{
+    
+    width: 20%;
+    background-color: rgb(22, 214, 240);
+    padding: 30px;
+    margin-left: 8px;
+    margin-top: 5%;
+    border: 10px solid;
+    border-radius: 10px;
+    border-color: rgb(186, 17, 228);
+    font-size: large;
+}
+#input__title{
+    width: 60%;
+    height: 35px;
+
+}
+#description{
+    width: 80%;
+    height: 50px;
+    
+}
+.right{
+    width: 35%;
+    background-color: greenyellow;
+    padding: 30px;
+    margin-left: 30%;
+    margin-top: -20%;
+    border: 10px solid;
+    border-radius: 10px;
+    border-color: rgb(252, 6, 6);
+    font-size:large;
+    font-weight: bolder;
+}
+#bbtn{
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    border: none;
+    padding: 10px 20px;
+    margin:3px;
+}    
